@@ -4,3 +4,6 @@
 .bg-white{
     background-color: white;
 }
+#daw{
+    display: flex;
+}
